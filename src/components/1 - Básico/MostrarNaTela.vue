@@ -17,7 +17,7 @@ function anoDoNascimento(fizAniversario = false) {
 </template>
 
 <style scoped lang="scss">
-@import "../assets/teste.scss";
+@import "../../assets/teste.scss";
 
 $minha-cor-favorita: blue;
 
