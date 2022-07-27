@@ -16,10 +16,10 @@ const outraPessoa = toRef(props, "outraPessoa");
     <h1>Tenho {{ props.idade }} anos</h1>
     <h1>Tenho {{ props.irmaos.length }} irmão(s)</h1>
     <br />
-    <h1>O nome da outra pessoa é: {{ outraPessoa.nome }}</h1>
-    <input type="text" v-model="outraPessoa.nome" />
+    <h1>O valor abaixo é: {{ props.nome }}</h1>
+    <input type="text" v-model="props.nome" />
 
-    <h1>O nome da outra pessoa é: {{ props.outraPessoa.nome }}</h1>
+    <h1>O valor abaixo é: {{ props.outraPessoa.nome }}</h1>
     <input type="text" v-model="props.outraPessoa.nome" />
 </template>
 
