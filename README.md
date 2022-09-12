@@ -1,7 +1,27 @@
-# Vue 3 + Vite
+# Atenção
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Este repositório está arquivado e sua tecnologia eventualmente se tornará depreciada.
+Tudo o que contém nele pode não funcionar corretamente ao clonar e executar, por isso
+não deve ser utilizado para nenhum propósito profissional ou crítico. Use por sua própria
+conta e risco.
 
-## Recommended IDE Setup
+# Sobre este repositório
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
+Este repositório tem o intuito de servir como portfólio para mim como professor da aluno
+Robério no período do mês de Julho e Agosto de 2022, que procurou aulas comigo através do
+[SuperProf](http://www.superprof.com.br).
+
+## Versões
+
+-   Vue 3.2.37
+-   Vite 3.0.0
+-   Vuetify 3.0.0-beta.5
+-   Axios 0.27.2
+-   Vue Router 4.1.1
+
+## Copyrights
+
+Este repositório é apenas demonstrativo e não pode ser distribuído como produto com fins
+lucrativos em nenhuma altura.
+
+Em caso de dúvidas por favor entre em contato.
